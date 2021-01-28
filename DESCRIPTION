@@ -1,8 +1,9 @@
 Package: nlsMicrobio
 Version: 0.0-2
 Title: Nonlinear Regression in Predictive Microbiology
-Authors@R: c(person("Florent", "Baty", role = c("aut", "cre"), email = "florent.baty@gmail.com"),
-             person("Marie-Laure", "Delignette-Muller", role = "aut", email = "marielaure.delignettemuller@vetagro-sup.fr"))
+Authors@R: c(person("Florent", "Baty", role = "aut", email = "florent.baty@gmail.com"),
+             person("Marie-Laure", "Delignette-Muller", role = "aut", email = "marielaure.delignettemuller@vetagro-sup.fr"),
+             person("Aurelie", "Siberchicot", role = c("aut", "cre"), email = "aurelie.siberchicot@univ-lyon1.fr"))
 Depends: stats, nlstools
 Description: Data sets and nonlinear regression models dedicated to predictive microbiology.
 License: GPL-3
