@@ -1,16 +1,11 @@
 Package: nlsMicrobio
-Version: 0.0-1
-Date: Wed May 21 13:50:39 CEST 2014
-Title: Nonlinear regression in predictive microbiology
-Author: Florent Baty <florent.baty@gmail.com> and Marie-Laure
-        Delignette-Muller <marielaure.delignettemuller@vetagro-sup.fr>
-Maintainer: Florent Baty <florent.baty@gmail.com>
+Version: 0.0-2
+Title: Nonlinear Regression in Predictive Microbiology
+Authors@R: c(person("Florent", "Baty", role = c("aut", "cre"), email = "florent.baty@gmail.com"),
+             person("Marie-Laure", "Delignette-Muller", role = "aut", email = "marielaure.delignettemuller@vetagro-sup.fr"))
 Depends: stats, nlstools
-Description: Data sets and nonlinear regression models dedicated to predictive microbiology
-License: GPL (>= 2)
+Description: Data sets and nonlinear regression models dedicated to predictive microbiology.
+License: GPL-3
 LazyLoad: yes
 LazyData: yes
-Repository: CRAN
-Packaged: 2014-06-25 13:00:36 UTC; florent
 NeedsCompilation: no
-Date/Publication: 2014-06-25 15:02:59
