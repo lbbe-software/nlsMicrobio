@@ -77,8 +77,6 @@ jobs:
           remotes::install_cran("rcmdcheck")
           install.packages('tinytex')
           tinytex::tlmgr_install("ae")
-          tinytex::parse_install(text = "! LaTeX Error: File `ae.sty' not found.")
-          tinytex::parse_install(text = "! LaTeX Error: File `grfext.sty' not found."")
         shell: Rscript {0}
 
       - name: Check
