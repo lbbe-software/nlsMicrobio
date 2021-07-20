@@ -8,6 +8,7 @@
 
 \title{Use of the package \texttt{nlstools} to help the fit and assess the quality of fit of a gaussian nonlinear model}
 \author{Marie Laure Delignette-Muller and Florent Baty}
+\date{December 2012}
 
 \begin{document}
 \SweaveOpts{concordance=TRUE}
