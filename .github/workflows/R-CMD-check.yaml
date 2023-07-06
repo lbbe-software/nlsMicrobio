@@ -45,7 +45,7 @@ jobs:
       - name: Install libraries for Linux
         if: runner.os == 'Linux'
         run: |
-          sudo apt-get install texlive
+          sudo apt-get install texlive texlive-latex-extra
           
       - uses: r-lib/actions/setup-r-dependencies@v2
         with:
