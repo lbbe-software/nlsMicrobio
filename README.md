@@ -1,4 +1,4 @@
-[![CRAN_Status_Badge](http://www.r-pkg.org/badges/version/nlsMicrobio)](https://cran.r-project.org/package=nlsMicrobio)
+[![CRAN_Release_Badge](http://www.r-pkg.org/badges/version-ago/nlsMicrobio)](https://cran.r-project.org/package=nlsMicrobio)
 [![CRAN Downloads](https://cranlogs.r-pkg.org/badges/nlsMicrobio)](https://cran.r-project.org/package=nlsMicrobio)
 [![R-CMD-check](https://github.com/aursiber/nlsMicrobio/workflows/R-CMD-check/badge.svg)](https://github.com/aursiber/nlsMicrobio/actions)
 
