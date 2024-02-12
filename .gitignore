@@ -3,3 +3,5 @@
 .Rhistory
 .RData
 .Ruserdata
+vignettes/nlsMicrobio_vignette.tex
+vignettes/nlsMicrobio_vignette-*.pdf
