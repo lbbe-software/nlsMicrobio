@@ -1,5 +1,5 @@
 Package: nlsMicrobio
-Version: 0.0-3
+Version: 1.0-0
 Title: Nonlinear Regression in Predictive Microbiology
 Authors@R: c(person("Florent", "Baty", role = "aut", email = "florent.baty@gmail.com"),
              person("Marie-Laure", "Delignette-Muller", role = "aut", email = "marielaure.delignettemuller@vetagro-sup.fr"),
