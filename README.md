@@ -2,6 +2,7 @@
 [![CRAN Downloads](https://cranlogs.r-pkg.org/badges/nlsMicrobio)](https://cran.r-project.org/package=nlsMicrobio)
 [![R-CMD-check](https://github.com/lbbe-software/nlsMicrobio/workflows/R-CMD-check/badge.svg)](https://github.com/lbbe-software/nlsMicrobio/actions)
 [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
+[![SWH](https://archive.softwareheritage.org/badge/origin/https://github.com/lbbe-software/nlsMicrobio/)](https://archive.softwareheritage.org/browse/origin/?origin_url=https://github.com/lbbe-software/nlsMicrobio)
 
 ---------------------------
 
